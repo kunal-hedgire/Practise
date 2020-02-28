@@ -1,0 +1,35 @@
+---
+test-suite:
+    test-case:
+      - Name :
+          - Step1:
+          - method:
+          - parameter:
+          - return: True
+          - run:
+
+          - Step2:
+          - method:
+          - parameter:
+          - return: True
+          - run:
+
+      - Name:
+          - Step1:
+          - method:
+          - parameter:
+          - return: False
+          - run:
+
+          - Step2:
+          - method:
+          - parameter:
+          - return: False
+          - run:
+    run:
+
+
+
+
+
+
